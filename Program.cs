@@ -46,9 +46,11 @@ namespace preparcial
                                     Console.WriteLine("Opcion invalida");
                                     break;
                             }
-
+                            Console.WriteLine();
 
                         }
+                        //finalizar el progreso
+                        return;
                     }
                     else
                     {
